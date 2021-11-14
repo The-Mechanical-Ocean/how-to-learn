@@ -6,3 +6,7 @@
   justify-content: center;
   text-decoration: none;
 }
+.resources__logo:hover {
+  opacity: 0.45;
+  transition: opacity 1s linear 0.5s;
+}

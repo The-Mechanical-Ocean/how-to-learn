@@ -3,12 +3,3 @@
   margin-top: 60px;
   margin-bottom: 0px;
 }
-.table__cell_theme_dark::before {
-  line-height: 1.15;
-  font-size: 24px;
-  font-weight: bold;
-  counter-increment: list;
-  content: counter(list);
-  position: absolute;
-  top: 0;
-}

@@ -4,9 +4,4 @@
   margin: 0 auto;
   font-family: 'Helvetica Neue', Arial, sans-serif;
 }
-.header__link:hover,
-.feynman__link:hover,
-.footer__column-link:hover {
-  opacity: 0.45;
-  transition: opacity 1s linear 0.5s;
-}
+
